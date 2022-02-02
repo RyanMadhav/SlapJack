@@ -8,5 +8,5 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 function startGame(){
-    alert("bruh")
+    alert("Good Luck Players")
 }
