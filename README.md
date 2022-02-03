@@ -7,7 +7,8 @@ For this project, you're going to create a card game in JavaScript. It can be an
 * Must include images. You can find card images only, or you can use the [DeckOfCards API](https://deckofcardsapi.com/) that we used last semester. It can handle the deck and has images available. 
 * It must be winnable / loseable, either each individual hand or through multiple draws. 
 
-**Game: Slapjack**
+## Game: Slapjack
+
 Game Type: Slapjack
 Age: 4+
 Players: 2, 3, 4, 5+
