@@ -9,28 +9,27 @@ For this project, you're going to create a card game in JavaScript. It can be an
 
 ## Game: Slapjack
 
-Game Type: Slapjack
+**Game Type:** Slapjack
 
-Age: 4+
+**Age:** 4+
 
-Players: 2, 3, 4, 5+
+**Players**: 2, 3, 4, 5+
 
-Tag: Accumulating Game
 
-THE PACK
+**THE PACK**
 
 The standard 52-card pack is used.
 
 
-OBJECT OF THE GAME
+**OBJECT OF THE GAME**
 
 The goal is to win all the cards, by being first to slap each jack as it is played to the center.
 
-THE DEAL
+**THE DEAL**
 
 Deal cards one at a time face down, to each player until all the cards have been dealt. The hands do not have to come out even. Without looking at any of the cards, each player squares up their hand into a neat pile in front of them.
 
-THE PLAY
+**THE PLAY**
 
 Beginning on the dealer’s left, each player lifts one card at a time from their pile and places it face up in the center of the table.
 
