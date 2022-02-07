@@ -14,7 +14,7 @@ async function fetchJSON(URL){
 }
 
 function startGame(){
-    //alert("bruh")
+    // alert("Good Luck PLayers")
     //let request = new Request('https://deckofcardsapi.com/api/deck/new/shuffle/?deck_count=1');
     //console.log(request.url)
     //let response = await fetch('https://deckofcardsapi.com/api/deck/new/shuffle/?deck_count=1')
@@ -32,6 +32,7 @@ function startGame(){
         })
         fetchJSON(`https://deckofcardsapi.com/api/deck/${deck}/pile/${hand2}/add/?cards=AS,2S`).then(json=>{
             console.log(json)
+            alert("Good Luck PLayers");
         })
     })
     
